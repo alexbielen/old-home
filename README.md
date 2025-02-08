@@ -1,4 +1,6 @@
-# Home 🏠
+# This Old Home 🏠
+
+Deprecated in favor of <link to home>
 
 A reproducible, configurable, discoverable shell configuration.
 
