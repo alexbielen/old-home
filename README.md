@@ -1,6 +1,6 @@
 # This Old Home 🏠
 
-Deprecated in favor of <link to home>
+Note: This is deprecated in favor of [Home](https://github.com/alexbielen/home).
 
 A reproducible, configurable, discoverable shell configuration.
 
